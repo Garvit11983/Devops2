@@ -3,7 +3,7 @@ fastapi==0.115.12
 pydantic==2.10.0
 anyio==4.5.2
 annotated-types==0.7.0
-h11==0.16.0
+h11==0.13.0
 idna==3.10
 charset-normalizer==3.4.1
 certifi==2025.4.26
