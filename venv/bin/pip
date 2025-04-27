@@ -1,4 +1,4 @@
-#!/home/garvit/Documents/work2/venv/bin/python3
+#!/home/garvit/Documents/work2/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
